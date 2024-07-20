@@ -1,1 +1,1 @@
-the_cat_api_key = "live_2FNSdnXYQMgcDHRGR93tqIAsIUmDBtE0tqI1Sdl97o0uze6VZ8g6ilUHYr3HTUNH"
+the_cat_api_key = "Your_key_api"
